@@ -1,0 +1,2 @@
+# fredagsprojekt
+Test af git 
